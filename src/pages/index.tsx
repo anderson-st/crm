@@ -1,7 +1,9 @@
-import React from 'react'
+import Home from '../screens/Home'
 
-const Home: React.FC = () => {
-  return <h1>feafea</h1>
-}
+// export async function getStaticProps() {
+//   return {
+//     props: {}
+//   }
+// }
 
 export default Home
